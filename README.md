@@ -3,7 +3,8 @@
 ### **Senior Full Stack Developer** especializado en arquitecturas corporativas y soluciones de software escalables.
 
 📌 **Contacto Rápido:**
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+*   🌐 **Portafolio:** [olivermartinezh.github.io](https://olivermartinezh.github.io/)
+*   **LinkedIn:** [olivermartinezh](https://www.linkedin.com/in/olivermartinezh/)
 *   **Correo Electrónico:** [oliver.martinez@gmail.com](mailto:oliver.martinez@gmail.com)
 
 ---
