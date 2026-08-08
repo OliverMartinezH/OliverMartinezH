@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy **Técnico de Nivel Superior en Programación Computacional e Informática** con amplia trayectoria en el análisis, diseño e implementación de soluciones robustas para empresas líderes en los sectores **bancario, telecomunicaciones, retail y servicios**. 
+Soy **Técnico de Nivel Superior en Programación Computacional** con amplia trayectoria en el análisis, diseño e implementación de soluciones robustas para empresas líderes en los sectores **bancario, telecomunicaciones, retail y servicios**. 
 
 *   💻 Especialista en desarrollo **Full Stack** con un fuerte enfoque en el ecosistema **.NET (C#)** y **Java**.
 *   📐 Apasionado por las arquitecturas modernas (**Hexagonal, BFF**) y la innovación técnica.
